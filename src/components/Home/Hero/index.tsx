@@ -14,7 +14,7 @@ const Hero = () => {
                 data-aos-delay='200'
                 data-aos-duration='1000'>
                 <h1 className='text-white relative max-w-473'>
-                 Conversion Focused Websites for Growing Businesses in India
+                  Focused Websites for Growing Businesses in India
                 </h1>
                 <button className='bg-white text-base font-normal text-primary py-3 px-12 rounded-lg mb-16 mt-8 transition-all duration-0.4s hover:bg-secondary hover:text-white'>
                   Get a Free Website Strategy Call
